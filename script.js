@@ -116,7 +116,7 @@ for(let count = 0; count <= diasDaSemana.length; count++){
     console.log(diasDaSemana[count])
 }
 
-for(let count = diasDaSemana.length-1; count >= 0; count--){
+for(let count = diasDaSemana.length -1; count >= 0; count--){
     console.log(diasDaSemana[count])
 }
 
